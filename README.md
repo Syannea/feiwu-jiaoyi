@@ -1,2 +1,2 @@
 # feiwu-jiaoyi
-Dedicated to trading sites
+Noob study work
